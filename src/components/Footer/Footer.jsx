@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "힐스테이트 고덕엘리스트", url: "https://www.sujain-modellhouse.co.kr/" },
+  { name: "힐스테이트 고덕엘리스트", url: "https://hillstategodeok-elisth.co.kr/" },
 ];
 
 const Footer = () => {

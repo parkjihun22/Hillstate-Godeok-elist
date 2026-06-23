@@ -83,7 +83,7 @@ export default function Customer() {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/Promotion/Customer"
+    href="https://hillstategodeok-elisth.co.kr/Promotion/Customer"
   />
 
   {/* Open Graph */}
@@ -102,12 +102,12 @@ export default function Customer() {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/Promotion/Customer"
+    content="https://hillstategodeok-elisth.co.kr/Promotion/Customer"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/customer.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/customer.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -128,12 +128,12 @@ export default function Customer() {
 
   <meta
     name="twitter:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/customer.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/customer.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.sujain-modellhouse.co.kr/Promotion/Customer"
+    content="https://hillstategodeok-elisth.co.kr/Promotion/Customer"
   />
 
   {/* JSON-LD */}
@@ -144,7 +144,7 @@ export default function Customer() {
 
       name: "힐스테이트 고덕엘리스트 - 관심고객등록",
 
-      url: "https://www.sujain-modellhouse.co.kr/Promotion/Customer",
+      url: "https://hillstategodeok-elisth.co.kr/Promotion/Customer",
 
       description:
         "힐스테이트 고덕엘리스트 관심고객등록 페이지입니다. 평택 고덕국제화계획지구 A31BL·A34BL·A35BL에 조성되는 총 2,122세대 브랜드 대단지의 분양 일정, 청약 정보, 모델하우스 소식 등 주요 안내를 우선 제공합니다.",
@@ -152,7 +152,7 @@ export default function Customer() {
       primaryImageOfPage: {
         "@type": "ImageObject",
         contentUrl:
-          "https://www.sujain-modellhouse.co.kr/img/og/customer.jpg",
+          "https://hillstategodeok-elisth.co.kr/img/og/customer.jpg",
         width: 1200,
         height: 630,
       },
@@ -164,14 +164,14 @@ export default function Customer() {
             "@type": "ListItem",
             position: 1,
             name: "홈",
-            item: "https://www.sujain-modellhouse.co.kr/",
+            item: "https://hillstategodeok-elisth.co.kr/",
           },
           {
             "@type": "ListItem",
             position: 2,
             name: "관심고객등록",
             item:
-              "https://www.sujain-modellhouse.co.kr/Promotion/Customer",
+              "https://hillstategodeok-elisth.co.kr/Promotion/Customer",
           },
         ],
       },

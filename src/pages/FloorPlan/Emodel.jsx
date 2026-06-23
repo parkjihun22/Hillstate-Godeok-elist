@@ -61,7 +61,7 @@ const Emodel = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/FloorPlan/Emodel"
+    href="https://hillstategodeok-elisth.co.kr/FloorPlan/Emodel"
   />
 
   <meta property="og:type" content="website" />
@@ -73,8 +73,8 @@ const Emodel = () => {
     content="평택 고덕국제화계획지구 A31BL·A34BL·A35BL 힐스테이트 고덕엘리스트 E모델하우스에서 58㎡·84㎡ 세대 평면과 공간 구성을 온라인으로 확인하세요."
   />
 
-  <meta property="og:url" content="https://www.sujain-modellhouse.co.kr/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://www.sujain-modellhouse.co.kr/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://hillstategodeok-elisth.co.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://hillstategodeok-elisth.co.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -86,20 +86,20 @@ const Emodel = () => {
     content="힐스테이트 고덕엘리스트 E모델하우스로 58㎡·84㎡ 세대 평면과 실내 공간을 확인하세요."
   />
 
-  <meta name="twitter:image" content="https://www.sujain-modellhouse.co.kr/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://www.sujain-modellhouse.co.kr/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://hillstategodeok-elisth.co.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://hillstategodeok-elisth.co.kr/FloorPlan/Emodel" />
 
   <script type="application/ld+json">
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
       name: "힐스테이트 고덕엘리스트 - E모델하우스",
-      url: "https://www.sujain-modellhouse.co.kr/FloorPlan/Emodel",
+      url: "https://hillstategodeok-elisth.co.kr/FloorPlan/Emodel",
       description:
         "힐스테이트 고덕엘리스트 E모델하우스 페이지입니다. 평택 고덕국제화계획지구 A31BL·A34BL·A35BL에 조성되는 총 2,122세대 브랜드 대단지의 58㎡·84㎡ 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.",
       primaryImageOfPage: {
         "@type": "ImageObject",
-        contentUrl: "https://www.sujain-modellhouse.co.kr/img/og/emodel.jpg",
+        contentUrl: "https://hillstategodeok-elisth.co.kr/img/og/emodel.jpg",
         width: 1200,
         height: 630,
       },
@@ -110,13 +110,13 @@ const Emodel = () => {
             "@type": "ListItem",
             position: 1,
             name: "홈",
-            item: "https://www.sujain-modellhouse.co.kr/",
+            item: "https://hillstategodeok-elisth.co.kr/",
           },
           {
             "@type": "ListItem",
             position: 2,
             name: "E모델하우스",
-            item: "https://www.sujain-modellhouse.co.kr/FloorPlan/Emodel",
+            item: "https://hillstategodeok-elisth.co.kr/FloorPlan/Emodel",
           },
         ],
       },

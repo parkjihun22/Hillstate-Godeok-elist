@@ -67,7 +67,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/SalesInfo/SubscriptionGuide"
+    href="https://hillstategodeok-elisth.co.kr/SalesInfo/SubscriptionGuide"
   />
 
   <meta name="robots" content="index,follow" />

@@ -65,7 +65,7 @@ const Brand1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/Brand/intro"
+    href="https://hillstategodeok-elisth.co.kr/Brand/intro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -85,12 +85,12 @@ const Brand1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/Brand/intro"
+    content="https://hillstategodeok-elisth.co.kr/Brand/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/images/og/main.jpg"
+    content="https://hillstategodeok-elisth.co.kr/images/og/main.jpg"
   />
 </Helmet>
 

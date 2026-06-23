@@ -108,7 +108,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/LocationEnvironment/intro"
+    href="https://hillstategodeok-elisth.co.kr/LocationEnvironment/intro"
   />
 
   {/* Open Graph */}
@@ -127,12 +127,12 @@ const LocationEnvironment1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/LocationEnvironment/intro"
+    content="https://hillstategodeok-elisth.co.kr/LocationEnvironment/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/location.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/location.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -153,12 +153,12 @@ const LocationEnvironment1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/location.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/location.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.sujain-modellhouse.co.kr/LocationEnvironment/intro"
+    content="https://hillstategodeok-elisth.co.kr/LocationEnvironment/intro"
   />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
@@ -169,14 +169,14 @@ const LocationEnvironment1 = () => {
 
       name: "힐스테이트 고덕엘리스트 - 입지환경",
 
-      url: "https://www.sujain-modellhouse.co.kr/LocationEnvironment/intro",
+      url: "https://hillstategodeok-elisth.co.kr/LocationEnvironment/intro",
 
       description:
         "힐스테이트 고덕엘리스트 입지환경 페이지입니다. 평택 고덕국제화계획지구 A31BL·A34BL·A35BL에 조성되는 총 2,122세대 브랜드 대단지의 생활 인프라, 교통환경, 교육환경, 공원·녹지 환경과 미래가치를 안내합니다.",
 
       primaryImageOfPage: {
         "@type": "ImageObject",
-        contentUrl: "https://www.sujain-modellhouse.co.kr/img/og/location.jpg",
+        contentUrl: "https://hillstategodeok-elisth.co.kr/img/og/location.jpg",
         width: 1200,
         height: 630,
       },
@@ -188,13 +188,13 @@ const LocationEnvironment1 = () => {
             "@type": "ListItem",
             position: 1,
             name: "홈",
-            item: "https://www.sujain-modellhouse.co.kr/",
+            item: "https://hillstategodeok-elisth.co.kr/",
           },
           {
             "@type": "ListItem",
             position: 2,
             name: "입지환경",
-            item: "https://www.sujain-modellhouse.co.kr/LocationEnvironment/intro",
+            item: "https://hillstategodeok-elisth.co.kr/LocationEnvironment/intro",
           },
         ],
       },

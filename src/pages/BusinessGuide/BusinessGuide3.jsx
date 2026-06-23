@@ -82,7 +82,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/BusinessGuide/documents"
+    href="https://hillstategodeok-elisth.co.kr/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -101,12 +101,12 @@ const BusinessGuide2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/BusinessGuide/documents"
+    content="https://hillstategodeok-elisth.co.kr/BusinessGuide/documents"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/Main1.png"
+    content="https://hillstategodeok-elisth.co.kr/Main1.png"
   />
 </Helmet>
 

@@ -59,7 +59,7 @@ const Brand2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/Brand/video"
+    href="https://hillstategodeok-elisth.co.kr/Brand/video"
   />
 
   <meta name="robots" content="index,follow" />
@@ -80,12 +80,12 @@ const Brand2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/Brand/video"
+    content="https://hillstategodeok-elisth.co.kr/Brand/video"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/images/og/main.jpg"
+    content="https://hillstategodeok-elisth.co.kr/images/og/main.jpg"
   />
 
   {/* Twitter */}
@@ -103,7 +103,7 @@ const Brand2 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.sujain-modellhouse.co.kr/images/og/main.jpg"
+    content="https://hillstategodeok-elisth.co.kr/images/og/main.jpg"
   />
 </Helmet>
 

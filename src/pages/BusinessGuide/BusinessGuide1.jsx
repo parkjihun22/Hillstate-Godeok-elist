@@ -75,7 +75,7 @@ const BusinessGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/BusinessGuide/intro"
+    href="https://hillstategodeok-elisth.co.kr/BusinessGuide/intro"
   />
 
   <meta property="og:type" content="website" />
@@ -93,12 +93,12 @@ const BusinessGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/BusinessGuide/intro"
+    content="https://hillstategodeok-elisth.co.kr/BusinessGuide/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/business.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/business.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -118,7 +118,7 @@ const BusinessGuide1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/business.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/business.jpg"
   />
 
   <script type="application/ld+json">
@@ -126,12 +126,12 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       name: "힐스테이트 고덕엘리스트 사업안내",
-      url: "https://www.sujain-modellhouse.co.kr/BusinessGuide/intro",
+      url: "https://hillstategodeok-elisth.co.kr/BusinessGuide/intro",
       description:
         "평택 고덕국제화계획지구 A31BL·A34BL·A35BL 힐스테이트 고덕엘리스트 사업개요, 입지환경, 생활 인프라와 브랜드 프리미엄 정보를 제공합니다.",
       primaryImageOfPage: {
         "@type": "ImageObject",
-        contentUrl: "https://www.sujain-modellhouse.co.kr/img/og/business.jpg",
+        contentUrl: "https://hillstategodeok-elisth.co.kr/img/og/business.jpg",
         width: 1200,
         height: 630,
       },
@@ -142,13 +142,13 @@ const BusinessGuide1 = () => {
             "@type": "ListItem",
             position: 1,
             name: "홈",
-            item: "https://www.sujain-modellhouse.co.kr/",
+            item: "https://hillstategodeok-elisth.co.kr/",
           },
           {
             "@type": "ListItem",
             position: 2,
             name: "사업안내",
-            item: "https://www.sujain-modellhouse.co.kr/BusinessGuide/intro",
+            item: "https://hillstategodeok-elisth.co.kr/BusinessGuide/intro",
           },
         ],
       },

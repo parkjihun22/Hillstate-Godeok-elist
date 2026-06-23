@@ -60,7 +60,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/LocationEnvironment/primium"
+    href="https://hillstategodeok-elisth.co.kr/LocationEnvironment/primium"
   />
 
   <meta name="robots" content="index,follow" />
@@ -81,12 +81,12 @@ const LocationEnvironment1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.sujain-modellhouse.co.kr/LocationEnvironment/primium"
+    content="https://hillstategodeok-elisth.co.kr/LocationEnvironment/primium"
   />
 
   <meta
     property="og:image"
-    content="https://www.sujain-modellhouse.co.kr/img/og/location.jpg"
+    content="https://hillstategodeok-elisth.co.kr/img/og/location.jpg"
   />
 </Helmet>
 

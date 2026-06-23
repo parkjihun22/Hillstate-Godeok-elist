@@ -66,7 +66,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.sujain-modellhouse.co.kr/BusinessGuide/plan"
+    href="https://hillstategodeok-elisth.co.kr/BusinessGuide/plan"
   />
 
   <meta name="robots" content="index,follow" />

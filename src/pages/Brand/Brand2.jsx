@@ -13,8 +13,9 @@ import { Helmet } from "react-helmet-async";
 
 const Brand2 = () => {
 	const menuContents = [
-		// { title: "브랜드 소개", url: "/brand/intro" }, 
-		{ title: "홍보 영상", url: "/brand/video" }];
+		{ title: "브랜드 소개", url: "/brand/intro" }, 
+		{ title: "홍보 영상", url: "/brand/video" }
+  ];
 
 
 	const [isScroll, setIsScroll] = useState(false);

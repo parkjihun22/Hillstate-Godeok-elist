@@ -13,7 +13,7 @@ import page1 from "../../assets/Brand/intro/page1.jpg";
 
 const Brand1 = () => {
     const menuContents = [
-      // { title: "브랜드 소개", url: "/brand/intro" }, 
+      { title: "브랜드 소개", url: "/brand/intro" }, 
       { title: "홍보 영상", url: "/brand/video" }
     ];
     const [isScroll, setIsScroll] = useState(false);

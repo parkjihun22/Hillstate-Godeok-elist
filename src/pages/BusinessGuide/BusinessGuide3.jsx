@@ -14,11 +14,10 @@ import Ready from "../../components/Ready/Ready";
 
 const BusinessGuide2 = () => {
 	const menuContents = [
+		{ title: "청약안내문", url: "/SalesInfo/guide" },
+		{ title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
 		{ title: "공급안내", url: "/BusinessGuide/documents" },
 		{ title: "모집공고안내", url: "/SalesInfo/announcement" },
-		// { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
-		// { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-		// { title: "청약안내문", url: "/SalesInfo/guide" },
 	];
 	const [isScroll, setIsScroll] = useState(false);
 	const [selectedOption, setSelectedOption] = useState(1); // 선택된 옵션 (1~6)

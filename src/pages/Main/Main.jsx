@@ -222,14 +222,13 @@ const Main = () => {
         // PC 버전
         <>
           <Header isChanged={isScroll} />
-          {/* {isOpenPopup1 && (
-            <Popup
-              onClosed={() => setIsOpenPopup1(false)}
-              popupImage={popupPage1}
-              numbering={1}
-            />
-          )}
-          {!isOpenPopup1 && isOpenPopup2 && (
+          <Popup
+            onClosed={() => setIsOpenPopup1(false)}
+            popupImage={popupPage1}
+            numbering={1}
+            openInterestPopup={() => setIsInterestPopupOpen(true)}
+          />
+          {/* {!isOpenPopup1 && isOpenPopup2 && (
             <Popup
               onClosed={() => setIsOpenPopup2(false)}
               popupImage={popupPage2}
@@ -561,14 +560,15 @@ const Main = () => {
       ) : (
         // 모바일 버전
         <div className={styles.mobileMain}>
-          {/* {isOpenPopup1 && (
-            <MobilePopup
-              onClosed={() => setIsOpenPopup1(!isOpenPopup1)}
-              popupImage={mobilePopupPage1}
-              numbering={1}
-            />
-          )}
-          {isOpenPopup2 && (
+        {isOpenPopup1 && (
+          <MobilePopup
+            onClosed={() => setIsOpenPopup1(false)}
+            popupImage={mobilePopupPage1}
+            numbering={1}
+            openInterestPopup={() => setIsInterestPopupOpen(true)}
+          />
+        )}
+          {/* {isOpenPopup2 && (
             <MobilePopup
               onClosed={() => setIsOpenPopup2(!isOpenPopup2)}
               popupImage={mobilePopupPage2}
